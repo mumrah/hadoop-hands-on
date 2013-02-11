@@ -1,6 +1,6 @@
 # Hands-On with Hadoop
 
-Source code to accompany article in Software Developer's Journal, Janurary 2013 issue.
+Source code to accompany article in Software Developer's Journal, Apache Hadoop Ecosystem, January 2013 issue.
 
 ## Java example
 
